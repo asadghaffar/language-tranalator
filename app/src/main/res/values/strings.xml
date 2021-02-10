@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- English Language -->
+
+    <string name="app_name">Language Translator</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_langugae">Select Langugae</string>
+    <string name="menu_english_forum">English Forums</string>
+    <string name="menu_spanish_forum">Spanish Forum</string>
+    <string name="language_setting">Language Setting</string>
+</resources>

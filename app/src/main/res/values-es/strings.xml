@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Spanish Language -->
+
+    <string name="app_name">Language Translater</string>
+    <string name="navigation_drawer_open">Cajón de navegación abierto</string>
+    <string name="navigation_drawer_close">Cerrar cajón de navegación</string>
+    <string name="nav_header_title">Estudio de Android</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">  Foro </string>
+    <string name="action_settings"> Muestra </string>
+
+    <string name="menu_langugae">Seleccione el idioma</string>
+    <string name="menu_english_forum">Foros en ingles</string>
+    <string name="menu_spanish_forum">Foro Español</string>
+    <string name="language_setting">Language Setting</string>
+</resources>
